@@ -1,0 +1,28 @@
+- Descrição:
+    A maioria das pessoas não sabem para onde vai o dinheiro delas ou o que acontece com ele
+   no final de mês. Esse sistema é para você monitora seus gastos durante o mês e quanto foi
+   esse gasto.
+
+- Justificativa:
+     Que as pessoas, as vezes gastam dinheiro que elas precisam para pagar o aluguel, tv a cabo,
+  comida e etc. Para poder controle seus gastos pessoais e despesas que podem acontecer.
+
+- Funcionalidade:
+   Salvar seus gastos e administrar as despesas, consultar categorias, calcular o total do mês,
+  ver maiores gastos e salvar seus dados.
+
+- Temas Abordados:
+   Temas abordados são arrumar a vida de uma pessoa e uma empresa a ter menos gastos,
+  com isso, tento controle sobre a sua vida.
+
+- Tecnologias:
+   Foi utilizado pycharm para os códigos, usamos chatgtp para organizar as ideias de uma
+  forma mais visível.
+
+- Biblioteca:
+ abc
+
+- Distribuição de Tarefas:
+Davi Rocha Dantas (Montou o relatório e Gestão do Projeto)
+Eduardo Bernardo Dias (Programação de Python e ajudou o relatório, Gestão de Projeto)
+Nicolas Fernandes Mendes (Apresentação)
